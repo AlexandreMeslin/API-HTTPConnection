@@ -69,6 +69,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+
 public class HTTPClientConnection {
 	private static final String USER_AGENT = "Mozilla/5.0";
 	private String endPointURI;
